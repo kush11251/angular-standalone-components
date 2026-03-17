@@ -1,0 +1,1 @@
+{"name": "angular-standalone-components", "version": "1.0.0", "scripts": {"start": "ng serve"}, "dependencies": {"@angular/core": "^14.0.0"}}
